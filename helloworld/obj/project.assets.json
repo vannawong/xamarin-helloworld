@@ -1551,32 +1551,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bigba\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/vanna/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bigba\\source\\repos\\helloworld\\helloworld\\helloworld.csproj",
+      "projectUniqueName": "/Users/vanna/Projects/xamarin-helloworld/helloworld/helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "C:\\Users\\bigba\\source\\repos\\helloworld\\helloworld\\helloworld.csproj",
-      "packagesPath": "C:\\Users\\bigba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bigba\\source\\repos\\helloworld\\helloworld\\obj\\",
+      "projectPath": "/Users/vanna/Projects/xamarin-helloworld/helloworld/helloworld.csproj",
+      "packagesPath": "/Users/vanna/.nuget/packages/",
+      "outputPath": "/Users/vanna/Projects/xamarin-helloworld/helloworld/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\bigba\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/vanna/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
